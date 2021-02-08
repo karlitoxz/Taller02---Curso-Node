@@ -1,0 +1,11 @@
+{"_id":{"$oid":"60216f03035489253cf5a9a4"},"detalles":[],"fecha":{"$date":"1987-10-19T00:00:00.000Z"},"total":999999,"idCliente":{"$oid":"6021487e0e127b0a601036b9"},"__v":0}
+{"_id":{"$oid":"60217004e727631d4ca8fc99"},"detalles":[],"fecha":{"$date":"1987-10-19T00:00:00.000Z"},"total":999999,"idCliente":{"$oid":"6021487e0e127b0a601036b9"},"__v":0}
+{"_id":{"$oid":"6021705ec530bf22e8351101"},"detalles":[],"fecha":{"$date":"1987-10-19T00:00:00.000Z"},"total":999999,"idCliente":{"$oid":"6021487e0e127b0a601036b9"},"__v":0}
+{"_id":{"$oid":"6021708b04e6061c207c2f8b"},"detalles":[],"fecha":{"$date":"1987-10-19T00:00:00.000Z"},"total":999999,"idCliente":{"$oid":"6021487e0e127b0a601036b9"},"__v":0}
+{"_id":{"$oid":"602170b267384a1ed4f7c131"},"fecha":{"$date":"1987-10-19T00:00:00.000Z"},"total":999999,"idCliente":{"$oid":"6021487e0e127b0a601036b9"},"__v":0}
+{"_id":{"$oid":"602170fa78579e08381c6026"},"detalles":[],"fecha":{"$date":"1987-10-19T00:00:00.000Z"},"total":999999,"idCliente":{"$oid":"6021487e0e127b0a601036b9"},"__v":0}
+{"_id":{"$oid":"6021711778579e08381c6027"},"detalles":[],"fecha":{"$date":"1987-10-19T00:00:00.000Z"},"total":999999,"idCliente":{"$oid":"6021487e0e127b0a601036b9"},"__v":0}
+{"_id":{"$oid":"6021712978579e08381c6028"},"detalles":[],"fecha":{"$date":"1987-10-19T00:00:00.000Z"},"total":999999,"idCliente":{"$oid":"6021487e0e127b0a601036b9"},"__v":0}
+{"_id":{"$oid":"6021719c78579e08381c6029"},"detalles":[],"fecha":{"$date":"1987-10-19T00:00:00.000Z"},"total":999999,"idCliente":{"$oid":"6021487e0e127b0a601036b9"},"__v":0}
+{"_id":{"$oid":"6021726595cc8a21b89e6b25"},"detalles":[{"_id":{"$oid":"6021726595cc8a21b89e6b26"},"idLibro":{"$oid":"60215831651d791564f78e85"}}],"fecha":{"$date":"1987-10-19T00:00:00.000Z"},"total":999999,"idCliente":{"$oid":"6021487e0e127b0a601036b9"},"__v":0}
+{"_id":{"$oid":"6021728d95cc8a21b89e6b27"},"detalles":[{"_id":{"$oid":"6021728d95cc8a21b89e6b28"},"idLibro":{"$oid":"60215831651d791564f78e85"},"libro":"Nombre del libro","valorUnitario":212,"cantidad":2}],"fecha":{"$date":"1987-10-19T00:00:00.000Z"},"total":999999,"idCliente":{"$oid":"6021487e0e127b0a601036b9"},"__v":0}

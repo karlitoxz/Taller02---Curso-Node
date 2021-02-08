@@ -1,0 +1,6 @@
+{"_id":{"$oid":"60215831651d791564f78e85"},"categorias":[{"cat01":"Categoria 01","cat02":"Categoria 02"}],"caratula":"Caratula 01","nombre":"Nombre del libro 01","descripcion":"Descripcion 01","valorUnitario":1111,"__v":0}
+{"_id":{"$oid":"6021586d651d791564f78e86"},"categorias":[{"cat01":"Categoria 01","cat02":"Categoria 02"}],"caratula":"Caratula 02","nombre":"Nombre del libro 02","descripcion":"Descripcion 03","valorUnitario":1151,"__v":0}
+{"_id":{"$oid":"6021587c651d791564f78e87"},"categorias":[{"cat01":"Categoria 01","cat02":"Categoria 02"}],"caratula":"Caratula 03 Actualizada","nombre":"Nombre del libro 03 Actualizada","descripcion":"Descripcion 03","valorUnitario":11751,"__v":0}
+{"_id":{"$oid":"6021616519524e231c574c98"},"categorias":[],"__v":0}
+{"_id":{"$oid":"602169a219524e231c574c99"},"categorias":[],"__v":0}
+{"_id":{"$oid":"60216a0819524e231c574c9a"},"categorias":[],"__v":0}
